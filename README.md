@@ -3,7 +3,7 @@
 
 <h3 align="center">Python • Machine Learning • NLP</h3>
 
-Привет! I'm Shahru 👋
+I'm Shahru 👋
 
 I'm an aspiring Machine Learning Engineer interested in
 building practical ML solutions with Python.
